@@ -3,7 +3,7 @@ import speech_recognition as sr
 import pyttsx3
 engine = pyttsx3.init()
 listener =sr.Recognizer()
-openai.api_key = "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"
+openai.api_key = "OpenAPI Key Goes Here..!"
 
 while True:
     with sr.Microphone() as source:

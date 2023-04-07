@@ -1,6 +1,7 @@
-# mac hidden files
+# mac files
 vscode
 .DS_Store
+notes.txt
 
 # venv directory
 talkGPT_venv
